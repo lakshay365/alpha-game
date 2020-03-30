@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alpha-game/static/css/main.bd80f7a4.chunk.css",
+    "main.js": "/alpha-game/static/js/main.52c2892a.chunk.js",
+    "main.js.map": "/alpha-game/static/js/main.52c2892a.chunk.js.map",
+    "runtime-main.js": "/alpha-game/static/js/runtime-main.aae916a1.js",
+    "runtime-main.js.map": "/alpha-game/static/js/runtime-main.aae916a1.js.map",
+    "static/css/2.f524894f.chunk.css": "/alpha-game/static/css/2.f524894f.chunk.css",
+    "static/js/2.ff0f537e.chunk.js": "/alpha-game/static/js/2.ff0f537e.chunk.js",
+    "static/js/2.ff0f537e.chunk.js.map": "/alpha-game/static/js/2.ff0f537e.chunk.js.map",
+    "index.html": "/alpha-game/index.html",
+    "precache-manifest.c1eb722a3ddd8bc6117c8429aa312ea1.js": "/alpha-game/precache-manifest.c1eb722a3ddd8bc6117c8429aa312ea1.js",
+    "service-worker.js": "/alpha-game/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/alpha-game/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.bd80f7a4.chunk.css.map": "/alpha-game/static/css/main.bd80f7a4.chunk.css.map",
+    "static/js/2.ff0f537e.chunk.js.LICENSE.txt": "/alpha-game/static/js/2.ff0f537e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae916a1.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.ff0f537e.chunk.js",
+    "static/css/main.bd80f7a4.chunk.css",
+    "static/js/main.52c2892a.chunk.js"
+  ]
+}
