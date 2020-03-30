@@ -1,0 +1,17 @@
+.OptionsContainer {
+  height: 40vh;
+  width: 100vw;
+  background-color: #363b46;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .OptionsContainer {
+    height: 50vh;
+  }
+}
